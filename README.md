@@ -5,13 +5,6 @@ one built using **only HTML and CSS**, and the other using **HTML, CSS, and Java
 
 ---
 
-## 🌐 Live Demos
-
-- 🔹 [Basic Calculator 1 (HTML + CSS + JS)](https://basic-calculator-x1.netlify.app/)
-- 🔹 [Basic Calculator 2 (HTML + CSS)](https://basic-calculator-x2.netlify.app/)
-
----
-
 ## 📂 Repository Structure
 
 ```bash
